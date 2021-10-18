@@ -7,17 +7,16 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Hello from Render!
+            Welcome to my lazy website! :P
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://www.instagram.com/xu3fe1/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            IG link of my childhood crush
           </a>
         </header>
       </div>
